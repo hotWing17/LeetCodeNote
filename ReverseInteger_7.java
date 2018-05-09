@@ -8,23 +8,21 @@
 
 class Solution {
     public int reverse(int x) {
-        
-        long s = 0;
+
+        long result = 0;
         while (x != 0) {
-            s = s * 10 + x % 10;
+            result = result * 10 + x % 10;
             x /= 10;
         }
-        
+
         /*
-        if (s > Integer.MAX_VALUE || s < Integer.MIN_VALUE) {
+        if (result > Integer.MAX_VALUE || result < Integer.MIN_VALUE) {
             return 0;
         }
-        return (int) s;
+        return (int) result;
         */
-
         // ??????
-        int test = (int) s;
-        return s == test ? test : 0;
-        
+        int test = (int) result;
+        return result == test ? test : 0;
     }
 }
