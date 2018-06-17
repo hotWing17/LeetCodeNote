@@ -1,4 +1,5 @@
-# 记录做过之后觉得方法比较受启发的题目 
-
+# 标记的题目 
+- [1]()
 - [7](https://github.com/hotWing17/LeetCode/blob/master/ReverseInteger_7.java)
+- [121]()
 - [204](https://github.com/hotWing17/LeetCode/blob/master/CountPrimes_204.java)
