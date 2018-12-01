@@ -44,8 +44,8 @@
 5|*Longest Palindromic Substring* (最长回文子串)||[5.java](./code/5.java)
 12|	*Integer to Roman* (整数转罗马数字)||[12.java](./code/12.java)
 19|	*Remove Nth Node From End of List* (删除链表的倒数第N个节点)||[19.java](./code/19.java)
-<!-- 22|*Generate Parentheses* (括号生成)||[22.java](./code/22.java) -->
 213|*House Robber II* (打家劫舍 II)||[213.java](./code/213.java)
+<!-- 22|*Generate Parentheses* (括号生成)||[22.java](./code/22.java) -->
 ---
 
 ## Hard
