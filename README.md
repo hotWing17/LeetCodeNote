@@ -23,6 +23,7 @@
 88|*Merge Sorted Array* (合并两个有序数组)||[88.java](./code/88.java)
 121|*Best Time to Buy and Sell Stock* (买卖股票的最佳时机)||[121.java](./code/121.java)
 122|*Best Time to Buy and Sell Stock II* (买卖股票的最佳时机 II)||[122.java](./code/122.java)
+141|*Linked List Cycle* (环形链表)||[141.java](./code/141.java)
 167|*Two Sum II - Input array is sorted* (两数之和 II - 输入有序数组)||[167.java](./code/167.java)
 169|*Majority Element* (求众数)||[169.java](./code/169.java)
 198|*House Robber* (打家劫舍)||[198.java](./code/198.java)
