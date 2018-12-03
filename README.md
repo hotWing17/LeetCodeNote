@@ -42,7 +42,7 @@
 :-:|:-:|:-:|:-:
 2|*Add Two Numbers* (两数相加)|[2.md](./note/2.md)|[2.java](./code/2.java)
 3|*Longest Substring Without Repeating Characters* (无重复字符的最长子串)|[3.md](./note/3.md)|[3.java](./code/3.java)
-5|*Longest Palindromic Substring* (最长回文子串)||[5.java](./code/5.java)
+5|*Longest Palindromic Substring* (最长回文子串)|[5.md](./note/5.md)|[5.java](./code/5.java)
 12|	*Integer to Roman* (整数转罗马数字)||[12.java](./code/12.java)
 19|	*Remove Nth Node From End of List* (删除链表的倒数第N个节点)||[19.java](./code/19.java)
 213|*House Robber II* (打家劫舍 II)||[213.java](./code/213.java)
