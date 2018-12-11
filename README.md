@@ -21,6 +21,8 @@
 53|*Maximum Subarray* (最大子序和)||[53.java](./code/53.java)
 66|*Plus One* (加一)||[66.java](./code/66.java)
 70|*Climbing Stairs* (爬楼梯)||[70.java](./code/70.java)
+82|*Remove Duplicates from Sorted List II* (删除排序链表中的重复元素 II)||[82.java](./code/82.java)
+83|*Remove Duplicates from Sorted List* (删除排序链表中的重复元素)||[83.java](./code/83.java)
 88|*Merge Sorted Array* (合并两个有序数组)||[88.java](./code/88.java)
 121|*Best Time to Buy and Sell Stock* (买卖股票的最佳时机)||[121.java](./code/121.java)
 122|*Best Time to Buy and Sell Stock II* (买卖股票的最佳时机 II)||[122.java](./code/122.java)
