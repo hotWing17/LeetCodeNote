@@ -23,7 +23,11 @@ class Solution {
     }
 }
 
-//动态规划算法
+//动态规划算法(优化，代码简洁)
+/* 思路：
+ * 循环遍历每一个房子nums[i]，每次比较打劫或者是不打劫 第nums[i]个房子能获取到的最大金额
+ *
+ */
 class Solution {
     public int rob(int[] nums) {
 
@@ -34,10 +38,10 @@ class Solution {
         int rob = 0, notRob = 0;
         for(int i=0; i<nums.length; i++){       //每遍历一个结点，如nums[i]，表示一共有[0...i]个房子给予你打劫，
             int tmp = nums[i] + notRob;         //而这种时候应该分为两种情况，打劫或者不打劫第i个房子
+            
             notRob = Math.max(rob, notRob);
             rob = tmp;
         }
-        
         return Math.max(rob, notRob);
     }
 }
