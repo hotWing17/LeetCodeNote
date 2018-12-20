@@ -13,6 +13,7 @@
 13|*Roman to Integer* (罗马数字转整数)||[13.java](./code/13.java)
 20|*Valid Parentheses* (有效的括号)||[20.java](./code/20.java)
 21|*Merge Two Sorted Lists* (合并两个有序链表)||[21.java](./code/21.java)
+24|*Swap Nodes in Pairs* (两两交换链表中的节点)||[24.java](./code/24.java)
 26|*Remove Duplicates from Sorted Array* (删除排序数组中的重复项)||[26.java](./code/26.java)
 27|*Remove Element* (移除元素)||[27.java](./code/27.java)
 28|*Implement strStr()* (实现strStr())||[28.java](./code/28.java)
