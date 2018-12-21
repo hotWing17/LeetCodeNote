@@ -6,7 +6,7 @@
 
 ## Easy
  -|Title|blog|code
-:-:|:-:|:-:|:-:
+:-:|:-|:-:|:-:
 1|*Two Sum* (两数之和)||[1.java](./code/1.java)
 7|*Reverse Integer* (整数反转)||[7.java](./code/7.java)
 9|*Palindrome Number* (回文数)||[9.java](./code/9.java)
