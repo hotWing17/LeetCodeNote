@@ -47,7 +47,7 @@
 
 ## Medium
  -|Title|blog|code
-:-:|:-:|:-:|:-:
+:-:|:-|:-:|:-:
 2|*Add Two Numbers* (两数相加)|[2.md](./note/2.md)|[2.java](./code/2.java)
 3|*Longest Substring Without Repeating Characters* (无重复字符的最长子串)|[3.md](./note/3.md)|[3.java](./code/3.java)
 5|*Longest Palindromic Substring* (最长回文子串)|[5.md](./note/5.md)|[5.java](./code/5.java)
