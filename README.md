@@ -32,6 +32,7 @@
 198|*House Robber* (打家劫舍)||[198.java](./code/198.java)
 203|*Remove Linked List Elements* (移除链表元素)||[203.java](./code/203.java)
 204|*Count Primes* (计数质数)||[204.java](./code/204.java)
+206|*Reverse Linked List* (反转链表)||[206.java](./code/206.java)
 217|*Contains Duplicate* (存在重复元素)||[217.java](./code/217.java)
 237|*Delete Node in a Linked List* (删除链表中的节点)||[237.java](./code/237.java)
 283|*Move Zeroes* (移动零)||[283.java](./code/283.java)
