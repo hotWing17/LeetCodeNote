@@ -54,6 +54,7 @@
 12|	*Integer to Roman* (整数转罗马数字)||[12.java](./code/12.java)
 19|	*Remove Nth Node From End of List* (删除链表的倒数第N个节点)||[19.java](./code/19.java)
 24|*Swap Nodes in Pairs* (两两交换链表中的节点)||[24.java](./code/24.java)
+61|*Rotate List* (旋转链表)||[61.java](./code/61.java)
 82|*Remove Duplicates from Sorted List II* (删除排序链表中的重复元素 II)||[82.java](./code/82.java)
 213|*House Robber II* (打家劫舍 II)||[213.java](./code/213.java)
 <!-- 22|*Generate Parentheses* (括号生成)||[22.java](./code/22.java) -->
