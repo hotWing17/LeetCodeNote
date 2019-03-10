@@ -40,6 +40,8 @@
 234|*Palindrome Linked List* (回文链表)||[234.java](./code/234.java)
 237|*Delete Node in a Linked List* (删除链表中的节点)||[237.java](./code/237.java)
 283|*Move Zeroes* (移动零)||[283.java](./code/283.java)
+292|*Nim Game* (Nim游戏)||[292.java](./code/292.java)
+344|*Reverse String* (反转字符串)||[344.java](./code/344.java)
 448|*Find All Numbers Disappeared in an Array* (找到所有数组中消失的数字)||[448.java](./code/448.java)
 455|*Assign Cookies* (分发饼干)||[455.java](./code/455.java)
 830|*Positions of Large Groups* (较大分组的位置)||[830.java](./code/830.java)
